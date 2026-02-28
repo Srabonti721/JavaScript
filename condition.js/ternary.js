@@ -31,3 +31,4 @@ price = isLeader === true ?
 price > 500 ?
 price /2: 0
 : price + 1000;
+console.log(price);
