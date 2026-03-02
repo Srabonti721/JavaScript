@@ -14,3 +14,8 @@ for(const passed of ispassed){
     console.log(passed);
     
 }
+const names = ["rumana", "ruma", "rajiya", "rani", "rupom"];
+for (const name of names){
+    console.log(name);
+    
+}
