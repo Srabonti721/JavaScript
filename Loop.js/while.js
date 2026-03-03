@@ -33,7 +33,7 @@ while(num<=20){
 // }
 
 
-
+// even
 let amount = 1;
 while(amount<=10){
     // console.log(amount);
@@ -43,3 +43,4 @@ while(amount<=10){
     }
     amount++;
 }
+
